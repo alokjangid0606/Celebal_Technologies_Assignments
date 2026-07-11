@@ -1,0 +1,38 @@
+
+    ==============================
+    AI RESUME ANALYSIS REPORT
+    ==============================
+    
+    Predicted Category:
+    Data Science
+    
+    ATS Score:
+    25.00 %
+    
+    Matched Skills:
+    c, git, python, sql
+    
+    Missing Skills:
+    gcp, azure, matplotlib, power bi, mysql, seaborn, deep learning, aws, mongodb, docker, machine learning, tableau
+    
+    Strengths:
+    Resume needs ATS improvement.
+Relevant technical skills available.
+Resume contains detailed information.
+    
+    Weaknesses:
+    ATS score is below recommended level.
+Some required skills are missing.
+    
+    AI Feedback:
+    Resume needs improvement before applying for this position.
+Recommended skills to learn: gcp, azure, matplotlib, power bi, mysql, seaborn, deep learning, aws, mongodb, docker, machine learning, tableau
+Add more projects and measurable achievements.
+    
+    Retrieved Resume Context:
+    small large projects server administrator john deere city state server administrator windows linux virtual physical servers associate technology analyst john deere parts city state developed sas programs generate report data wrote vba macros behind excel publish reports parttime student john deere city state managed access databases engine audit process published monthly reports developed internal web sites education bachelor arts management information systems 2005 university northern iowa cedar falls ia
+
+jessica claire montgomery street san francisco ca resumesampleexamplecom professional summary highly skilled software development professional bringing 10 years software design development integration advanced knowledge java skills agile html xml jdbc tomcat work history senior java developertech lead 2014 current synnex corporation tracy ca java developer agile scrum team javascript java develop customer facing internal web applications underlying component applications wrote maintainable extensible code team environment implemented designs including experimentation multiple iterations system administrator mantech international corporation joint base mcguire nj technical lead system administrator oracle ebusiness suite erp application mentored technical staff java developerscada system admin big lots anniston al developed maintained internal web applications managed scada system wind energy business business analyst john deere financial city state gathered requirements
+
+
+    
