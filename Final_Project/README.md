@@ -154,17 +154,6 @@ The application provides:
 
 ---
 
-## 📸 Screenshots
-
-Add screenshots of:
-
-- Home Page
-- Resume Upload
-- ATS Score
-- Skill Gap Analysis
-- Resume Report
-
----
 
 ## 🔮 Future Improvements
 
